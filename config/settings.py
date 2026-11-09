@@ -30,6 +30,7 @@ INSTALLED_APPS = [
     # PGASS business applications
     "apps.core.apps.CoreConfig",
     "apps.customers.apps.CustomersConfig",
+    "apps.policies.apps.PoliciesConfig",
 ]
 
 MIDDLEWARE = [
