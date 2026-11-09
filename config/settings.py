@@ -31,6 +31,7 @@ INSTALLED_APPS = [
     "apps.core.apps.CoreConfig",
     "apps.customers.apps.CustomersConfig",
     "apps.policies.apps.PoliciesConfig",
+    "apps.claims.apps.ClaimsConfig",
 ]
 
 MIDDLEWARE = [
